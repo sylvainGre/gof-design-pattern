@@ -8,13 +8,13 @@
 | [Factory](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/creational/factory) | The factory pattern takes out the responsibility of instantiating a object from the class to a Factory class.               |
 | [Abstract Factory](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/creational/abstractFactory) | Allows us to create a Factory for factory classes.                                                                          |
 | [Builder](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/creational/builder) | Creating an object step by step and a method to finally get the object instance.                                         |
-| [Prototype](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/prototype) | Creating a new object instance from another similar instance and then modify according to our requirements.                 |
+| [Prototype](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/creational/prototype) | Creating a new object instance from another similar instance and then modify according to our requirements.                 |
 
 ### Structural Design Patterns
 
 | Pattern name     | description |
 | --- | --- |
-| Adapter	|Provides an interface between two unrelated entities so that they can work together.|
+| [Adapter](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/structural/adapter)	|Provides an interface between two unrelated entities so that they can work together.|
 | Composite|	Used when we have to implement a part-whole hierarchy. For example, a diagram made of other pieces such as circle, square, triangle, etc.|
 |Proxy|	Provide a surrogate or placeholder for another object to control access to it.|
 |Flyweight	|Caching and reusing object instances, used with immutable objects. For example, string pool.|
