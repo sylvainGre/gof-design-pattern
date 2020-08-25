@@ -8,7 +8,7 @@
 | [Factory](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/creational/factory) | The factory pattern takes out the responsibility of instantiating a object from the class to a Factory class.               |
 | [Abstract Factory](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/creational/abstractFactory) | Allows us to create a Factory for factory classes.                                                                          |
 | [Builder](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/creational/builder) | Creating an object step by step and a method to finally get the object instance.                                         |
-| Prototype        | Creating a new object instance from another similar instance and then modify according to our requirements.                 |
+| [Prototype](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/prototype) | Creating a new object instance from another similar instance and then modify according to our requirements.                 |
 
 ### Structural Design Patterns
 
