@@ -4,10 +4,10 @@
 
 | Pattern name     | description |
 | --- | --- |
-| Singleton        | The singleton pattern restricts the initialization of a class to ensure that only one instance of the class can be created. |
-| Factory          | The factory pattern takes out the responsibility of instantiating a object from the class to a Factory class.               |
-| Abstract Factory | Allows us to create a Factory for factory classes.                                                                          |
-| Builder          | Creating an object step by step and a method to finally get the object instance.                                         |
+| [Singleton](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/creational/singleton) | The singleton pattern restricts the initialization of a class to ensure that only one instance of the class can be created. |
+| [Factory](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/creational/factory) | The factory pattern takes out the responsibility of instantiating a object from the class to a Factory class.               |
+| [Abstract Factory](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/creational/abstractFactory) | Allows us to create a Factory for factory classes.                                                                          |
+| [Builder](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/creational/builder) | Creating an object step by step and a method to finally get the object instance.                                         |
 | Prototype        | Creating a new object instance from another similar instance and then modify according to our requirements.                 |
 
 ### Structural Design Patterns
