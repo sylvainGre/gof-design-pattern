@@ -15,7 +15,7 @@
 | Pattern name     | description |
 | --- | --- |
 | [Adapter](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/structural/adapter)	|Provides an interface between two unrelated entities so that they can work together.|
-| Composite|	Used when we have to implement a part-whole hierarchy. For example, a diagram made of other pieces such as circle, square, triangle, etc.|
+| [Composite](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/structural/composite)|	Used when we have to implement a part-whole hierarchy. For example, a diagram made of other pieces such as circle, square, triangle, etc.|
 |Proxy|	Provide a surrogate or placeholder for another object to control access to it.|
 |Flyweight	|Caching and reusing object instances, used with immutable objects. For example, string pool.|
 |Facade|	Creating a wrapper interfaces on top of existing interfaces to help client applications.|
