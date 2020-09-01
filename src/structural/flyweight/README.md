@@ -1,0 +1,1 @@
+Source : https://www.journaldev.com/1562/flyweight-design-pattern-java
