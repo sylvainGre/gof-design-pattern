@@ -20,7 +20,7 @@
 | [Flyweight](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/structural/flyweight)	|Caching and reusing object instances, used with immutable objects. For example, string pool.|
 | [Facade](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/structural/facade)|	Creating a wrapper interfaces on top of existing interfaces to help client applications.|
 | [Bridge](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/structural/bridge) |The bridge design pattern is used to decouple the interfaces from implementation and hiding the implementation details from the client program.|
-|Decorator	| The decorator design pattern is used to modify the functionality of an object at runtime.|
+| [Decorator](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/structural/decorator)	| The decorator design pattern is used to modify the functionality of an object at runtime.|
 
 ### Behavioral Design Patterns
 
