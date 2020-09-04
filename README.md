@@ -26,7 +26,7 @@
 
 | Pattern name | description |
 | --- | --- |
-| Template Method	| used to create a template method stub and defer some of the steps of implementation to the subclasses.|
+| [Template Method](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/templateMethod)	| used to create a template method stub and defer some of the steps of implementation to the subclasses.|
 |Mediator	|used to provide a centralized communication medium between different objects in a system.|
 |Chain of Responsibility	|used to achieve loose coupling in software design where a request from the client is passed to a chain of objects to process them.|
 |Observer|	useful when you are interested in the state of an object and want to get notified whenever there is any change.|
