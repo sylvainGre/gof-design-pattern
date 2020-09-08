@@ -29,7 +29,7 @@
 | [Template Method](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/templateMethod)	| used to create a template method stub and defer some of the steps of implementation to the subclasses.|
 |[Mediator](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/mediator)	|used to provide a centralized communication medium between different objects in a system.|
 |[Chain of Responsibility](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/chainOfReponsibility)	|used to achieve loose coupling in software design where a request from the client is passed to a chain of objects to process them.|
-|Observer|	useful when you are interested in the state of an object and want to get notified whenever there is any change.|
+|[Observer](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/observer)|	useful when you are interested in the state of an object and want to get notified whenever there is any change.|
 |Strategy|	Strategy pattern is used when we have multiple algorithm for a specific task and client decides the actual implementation to be used at runtime.|
 |Command|	Command Pattern is used to implement lose coupling in a request-response model.|
 |State|	State design pattern is used when an Object change it’s behavior based on it’s internal state.|
