@@ -33,7 +33,7 @@
 |[Strategy](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/strategy)|	Strategy pattern is used when we have multiple algorithm for a specific task and client decides the actual implementation to be used at runtime.|
 |[Command](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/commmand)|	Command Pattern is used to implement lose coupling in a request-response model.|
 |[State](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/state) |	State design pattern is used when an Object change it’s behavior based on it’s internal state.|
-|Visitor|	Visitor pattern is used when we have to perform an operation on a group of similar kind of Objects.|
+|[Visitor](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/visitor)|	Visitor pattern is used when we have to perform an operation on a group of similar kind of Objects.|
 |Interpreter|	defines a grammatical representation for a language and provides an interpreter to deal with this grammar.|
 |Iterator|	used to provide a standard way to traverse through a group of Objects.|
 |Memento|	The memento design pattern is used when we want to save the state of an object so that we can restore later on.|
