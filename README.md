@@ -35,7 +35,7 @@
 |[State](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/state) |	State design pattern is used when an Object change it’s behavior based on it’s internal state.|
 |[Visitor](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/visitor)|	Visitor pattern is used when we have to perform an operation on a group of similar kind of Objects.|
 |[Interpreter](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/interpreter)|	defines a grammatical representation for a language and provides an interpreter to deal with this grammar.|
-|Iterator|	used to provide a standard way to traverse through a group of Objects.|
+|[Iterator](https://github.com/sylvainGre/gof-design-pattern/tree/master/src/behavioral/iterator)|	used to provide a standard way to traverse through a group of Objects.|
 |Memento|	The memento design pattern is used when we want to save the state of an object so that we can restore later on.|
 
 Source https://www.journaldev.com/31902/gangs-of-four-gof-design-patterns
